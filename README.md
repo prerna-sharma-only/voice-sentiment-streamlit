@@ -17,8 +17,20 @@
 
 <br>
 
-👁️ Visitors <img src="https://komarev.com/ghpvc/?username=prerna-sharma-only&repo=voice-sentiment-streamlit
-&color=00ffcc&style=for-the-badge" />
+<div align="center">
+
+## 👁️ Visitors & Stats
+
+<img src="https://komarev.com/ghpvc/?username=prernaq-sharma-only&color=00ffcc&style=for-the-badge" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=prernaq-sharma-only&show_icons=true&theme=radical&title_color=00ffcc&icon_color=00ffcc" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prernaq-sharma-only&theme=black-ice&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" height="170"/>
+
+</div>
+
 
 </div>
 
